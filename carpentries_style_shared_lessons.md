@@ -1,5 +1,9 @@
 # Carpentries style materials
 
+Here are a collection of Carpentries style lessons. These are not part of the official carpentries curriculum, but are a good source of inspiration whenever you need them. Would be awesome if you could add examples! please contact me 
+
+If you want your lessons to be part of the currilumn you can propose them to [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals): The Incubator will serve as a single point of entry for lessons or ideas at any stage in the development process.
+
 ## R
 
 - Git using Rstudio https://stijnvanhoey.github.io/git-Rstudio-course/ This is a short lesson to teach git from RStudio 
@@ -25,6 +29,7 @@ http://scw-aberystwyth.github.io/python-novice-gapminder/
 - A carpentry style course on machine learning with Python and Scikit Learn. 
 https://github.com/SCW-Aberystwyth/machine-learning-novice
 - C3DIS 2019 - Introduction to Machine Learning with Python  https://injeans.github.io/c3dis-intro-to-ml/ Using The Carpentries style version 9.5.3.    
+- https://machinelearningcarpentry.github.io/machine-learning-novice/
 
 ## Shell
  
