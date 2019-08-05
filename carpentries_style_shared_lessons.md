@@ -17,6 +17,7 @@ Contact Damien Irving @DrClimate
 - Plotting and Programming in Python using Spyder instead of Jupyter Notebooks - 
 http://scw-aberystwyth.github.io/python-novice-gapminder/
 - Software Testing in Python https://neurohackweek.github.io/software-testing-for-scientists/
+- High performance Python https://neurohackademy.github.io/high-performance-python/
 
 ### Machine Learning with Python
  
@@ -53,3 +54,4 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
   - hpc-shell: Intro to the shell for people using remote advanced computing systems
   - hpc-intro: intro to using HPC systems
 - A one day workshop introducing parallel programming using MPI. https://rantahar.github.io/introduction-to-mpi/
+
