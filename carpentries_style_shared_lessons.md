@@ -16,8 +16,9 @@ with tidyverse and a bit of modeling thrown in.
 Contact Damien Irving @DrClimate
 - Plotting and Programming in Python using Spyder instead of Jupyter Notebooks - 
 http://scw-aberystwyth.github.io/python-novice-gapminder/
-- Software Testing in Python https://neurohackweek.github.io/software-testing-for-scientists/
-- High performance Python https://neurohackademy.github.io/high-performance-python/
+- Software Testing in Python https://neurohackweek.github.io/software-testing-for-scientists/ by neurohackademy
+- High performance Python https://neurohackademy.github.io/high-performance-python/ by neurohackademy
+- Convolutional Neural Networks https://neurohackademy.github.io/convolutional-neural-networks/ by neurohackademy
 
 ### Machine Learning with Python
  
