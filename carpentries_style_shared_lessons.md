@@ -36,7 +36,9 @@ https://github.com/SCW-Aberystwyth/machine-learning-novice
 ## Git - Version Control
 
 - Customised from git - https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
-- Code refinery git intro https://coderefinery.github.io/git-intro/ - Guacamole example
+- CodeRefinery git intro https://coderefinery.github.io/git-intro/ - Guacamole example
+- Collaborative distributed version control https://coderefinery.github.io/git-collaborative/ - Working with remotes, pull requests, and code review
+- Git branch design https://coderefinery.github.io/git-branch-design/ - Rebase vs. merge, avoiding conflicts, branching models
 - Git - Github - Rstudio https://inbo.github.io/git-course/
 - Steve Bond (Biologyguy)'s Git and Github with examples that make more sense IRL: https://biologyguy.github.io/git-novice/
 Two hour edition targeted at IT pros based on this version: https://dlstrong.github.io/git-novice/. I teach 
