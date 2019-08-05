@@ -44,7 +44,8 @@ this as a full day lesson, and use a cut-down version for SWC workshops: http://
 as the narrative, covers branches, revert, reset, rebase, remotes, PRs.
 - Modified version of git-novice that uses Git Desktop and uses editing a carpentry data file as example: 
 https://caltechlibrary.github.io/git-desktop/
--  SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
+- SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
+- Git beyond the basics https://m4rkd.github.io/git-beyond-the-basics/
 
 ## Docker / Singularity - Containers
  
