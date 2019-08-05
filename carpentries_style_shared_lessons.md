@@ -16,6 +16,7 @@ with tidyverse and a bit of modeling thrown in.
 Contact Damien Irving @DrClimate
 - Plotting and Programming in Python using Spyder instead of Jupyter Notebooks - 
 http://scw-aberystwyth.github.io/python-novice-gapminder/
+- Software Testing in Python https://neurohackweek.github.io/software-testing-for-scientists/
 
 ### Machine Learning with Python
  
@@ -38,9 +39,11 @@ as the narrative, covers branches, revert, reset, rebase, remotes, PRs.
 https://caltechlibrary.github.io/git-desktop/
 -  SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 
-## Docker
+## Docker / Singularity
  
 - Reproducible computational environments using containers https://dme26.github.io/docker-introduction/
+- https://neurohackweek.github.io/docker-for-scientists/
+
 
 
 ## HPC
