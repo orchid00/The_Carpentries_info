@@ -1,4 +1,6 @@
- # A Brief Introduction to the Carpentries Pedagogic Model
+# A Brief Introduction to the Carpentries Pedagogic Model
+ 
+Adapted from https://github.com/DanielleQuinn/sc-helper-info all credits go to Danielle Quinn for first writiting this. :)
 
 ## The Carpentries Pedagogical Model
 The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on practice, we develop learners' confidence and lay the foundation for future learning.
