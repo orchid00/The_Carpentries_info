@@ -12,7 +12,7 @@ using The Carpentries style version 9.5.0. proposed by Stjin van Hoey, you can c
 Was used in https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/
 - https://uomresearchit.github.io/r-tidyverse-intro/ --a condensed version of the Software Carpentry intro to R lesson, 
 with tidyverse and a bit of modeling thrown in.
-
+- Quantitative Trait Mapping https://smcclatchy.github.io/mapping/ This lesson introduces genetic mapping using qtl2, a R package for analyzing quantitative phenotypes and genetic data from complex crosses like the Diversity Outbred (DO).
  
 ## Python
  
@@ -32,7 +32,7 @@ https://github.com/SCW-Aberystwyth/machine-learning-novice
 - https://machinelearningcarpentry.github.io/machine-learning-novice/
 
 ## Shell
- 
+
 ## Git - Version Control
 
 - Customised from git - https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
@@ -47,12 +47,14 @@ https://caltechlibrary.github.io/git-desktop/
 - SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 - Git beyond the basics https://m4rkd.github.io/git-beyond-the-basics/
 
+## SQL
+- SQL for Business https://data-lessons.github.io/SQL-business/ This lesson will teach you what relational databases are,
+how you can load data into them and how you can query databases to extract just the information that you need.
+
 ## Docker / Singularity - Containers
  
 - Reproducible computational environments using containers https://dme26.github.io/docker-introduction/
 - https://neurohackweek.github.io/docker-for-scientists/
-
-
 
 ## HPC - High Performance Computing
  
@@ -64,3 +66,14 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
 
 ## GAP -  computational algebra
 - http://alex-konovalov.github.io/gap-lesson/ by Alex Konovalov
+
+## Genomics
+- Molecular Epidemiology of Infectious Diseases - computer practical
+https://aschuerch.github.io/MolecularEpidemiology_AnalysisWGS/index.html
+- Molecular Basis of Bacterial Infections course, computer practical https://aschuerch.github.io/MBBI_ComputerPracticum/
+
+## Data Stewardship
+- 23 (Research Data) Things https://data-lessons.github.io/23-rd-things/ 23 (research data) Things is a self-guided
+training concept for anybody interested in data.
+- Data and the FAIR Principles http://www.repronim.org/module-FAIR-data/ This module provides a number of lessons
+to ensure that a researcher’s data is properly managed and published to ensure it enables reproducible research.
