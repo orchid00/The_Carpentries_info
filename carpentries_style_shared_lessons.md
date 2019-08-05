@@ -33,7 +33,7 @@ https://github.com/SCW-Aberystwyth/machine-learning-novice
 
 ## Shell
  
-## Git
+## Git - Version Control
 
 - Customised from git - https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 - Code refinery git intro https://coderefinery.github.io/git-intro/ - Guacamole example
@@ -46,14 +46,14 @@ as the narrative, covers branches, revert, reset, rebase, remotes, PRs.
 https://caltechlibrary.github.io/git-desktop/
 -  SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 
-## Docker / Singularity
+## Docker / Singularity - Containers
  
 - Reproducible computational environments using containers https://dme26.github.io/docker-introduction/
 - https://neurohackweek.github.io/docker-for-scientists/
 
 
 
-## HPC
+## HPC - High Performance Computing
  
 - HPC Carpentry: https://hpc-carpentry.github.io/
 Made up of 1/2 day lessons that can be combined together in different ways depending on the audience
@@ -61,3 +61,5 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
   - hpc-intro: intro to using HPC systems
 - A one day workshop introducing parallel programming using MPI. https://rantahar.github.io/introduction-to-mpi/
 
+## GAP -  computational algebra
+- http://alex-konovalov.github.io/gap-lesson/ by Alex Konovalov
