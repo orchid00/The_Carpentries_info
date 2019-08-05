@@ -39,7 +39,7 @@ https://github.com/SCW-Aberystwyth/machine-learning-novice
 - Code refinery git intro https://coderefinery.github.io/git-intro/ - Guacamole example
 - Git - Github - Rstudio https://inbo.github.io/git-course/
 - Steve Bond (Biologyguy)'s Git and Github with examples that make more sense IRL: https://biologyguy.github.io/git-novice/
-Two hour edition targeted at IT pros based on this version: https://github.com/dlstrong/git-novice/tree/it-pro-forum. I teach 
+Two hour edition targeted at IT pros based on this version: https://dlstrong.github.io/git-novice/. I teach 
 this as a full day lesson, and use a cut-down version for SWC workshops: http://gcapes.github.io/git-course. Writing a paper 
 as the narrative, covers branches, revert, reset, rebase, remotes, PRs.
 - Modified version of git-novice that uses Git Desktop and uses editing a carpentry data file as example: 
