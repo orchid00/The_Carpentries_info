@@ -48,6 +48,7 @@ as the narrative, covers branches, revert, reset, rebase, remotes, PRs.
 https://caltechlibrary.github.io/git-desktop/
 - SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 - Git beyond the basics https://m4rkd.github.io/git-beyond-the-basics/
+- Introduction to Git and GitHub https://elizabeth-dupre.com/git-course/ (forked from gcapes/git-course) by [@emdupre](https://github.com/emdupre)
 
 ## SQL
 - SQL for Business https://data-lessons.github.io/SQL-business/ This lesson will teach you what relational databases are,
