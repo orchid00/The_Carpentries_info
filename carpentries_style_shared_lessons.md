@@ -79,3 +79,6 @@ https://aschuerch.github.io/MolecularEpidemiology_AnalysisWGS/index.html
 training concept for anybody interested in data.
 - Data and the FAIR Principles http://www.repronim.org/module-FAIR-data/ This module provides a number of lessons
 to ensure that a researcher’s data is properly managed and published to ensure it enables reproducible research.
+
+## Open Source software
+- 4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
