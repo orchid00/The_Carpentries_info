@@ -23,6 +23,7 @@ http://scw-aberystwyth.github.io/python-novice-gapminder/
 - Software Testing in Python https://neurohackweek.github.io/software-testing-for-scientists/ by neurohackademy
 - High performance Python https://neurohackademy.github.io/high-performance-python/ by neurohackademy
 - Convolutional Neural Networks https://neurohackademy.github.io/convolutional-neural-networks/ by neurohackademy
+- Image processing with Python - This lesson is under development (not yet official) for use in the Digital Imaging and Vision Applications in Science (DIVAS) Image Processing summer workshop https://datacarpentry.org/image-processing/
 
 ### Machine Learning with Python
  
