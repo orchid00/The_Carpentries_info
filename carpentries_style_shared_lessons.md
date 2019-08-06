@@ -1,6 +1,6 @@
 # Carpentries style materials
 
-Here are a collection of Carpentries style lessons. These are not part of the official carpentries curriculum, but are a good source of inspiration whenever you need them. Would be awesome if you could add examples! please contact me 
+Here are a collection of Carpentries style lessons. These are not part of the official carpentries curriculum, but are a good source of inspiration whenever you need them. Would be awesome if you could add examples! please contact [me](https://twitter.com/orchid00). 
 
 If you want your lessons to be part of the currilumn you can propose them to [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals): The Incubator will serve as a single point of entry for lessons or ideas at any stage in the development process.
 
