@@ -6,8 +6,7 @@ If you want your lessons to be part of the currilumn you can propose them to [Th
 
 ## R
 
-- Git using Rstudio https://stijnvanhoey.github.io/git-Rstudio-course/ This is a short lesson to teach git from RStudio 
-using The Carpentries style version 9.5.0. proposed by Stjin van Hoey, you can contact @orchid00 if you have questions.
+- Git using Rstudio used to be https://stijnvanhoey.github.io/git-Rstudio-course/ and now moved to The Carpentries Incubator! [https://carpentries-incubator.github.io/git-Rstudio-course/](https://carpentries-incubator.github.io/git-Rstudio-course/) This is a short lesson to teach git from RStudio using The Carpentries style version 9.5.0. developed by Stjin van Hoey, you can contact me @orchid00 if you have questions or @stijnvanhoey on github and @SVanHoey on twitter.
 - https://tibhannover.github.io/FAIR-R/ -- Fork of r-novice-inflammation that focusses on function docu, packaging & testing. 
 Was used in https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/
 - https://uomresearchit.github.io/r-tidyverse-intro/ --a condensed version of the Software Carpentry intro to R lesson, 
