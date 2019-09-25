@@ -79,7 +79,7 @@ For those who like visuals, a great summary provided by Daniela C. Soto @dcsoto_
 
 ![](https://pbs.twimg.com/media/D2yoCXOUYAEsrL7.jpg)
 
-https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small
+![](https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small)
 
 **[Go back](https://orchid00.github.io/The_Carpentries_info)**
 
