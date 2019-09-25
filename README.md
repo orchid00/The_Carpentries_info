@@ -1,4 +1,4 @@
-# Carpentries info
+# The Carpentries info
 
 ## Hi Welcome! 
 
