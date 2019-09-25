@@ -2,6 +2,8 @@
  
 Adapted from https://github.com/DanielleQuinn/sc-helper-info all credits go to Danielle Quinn for writing it first. :)
 
+TLDR, check out the diagrame provided in the [Summary](#summary)
+
 ## The Carpentries Pedagogical Model
 The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on practice, we develop learners' confidence and lay the foundation for future learning.
 A critical component of this process is that learners are able to practice what they are learning in real time, get feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
@@ -70,3 +72,12 @@ Some tips for live coding:
 
 ### Errors as Opportunities
 One of the barriers to learning is avoidance of making errors. Errors are associated with negative emotions, which leads to learners being fearful of making them. Error framing encourages learners to understand that making errors provides valuable learning opportunities instead of having negative consequences. Error framing has shown to be useful in learning complex tasks such as programming. Errors are common when live-coding; when you, as an instructor, make an error, it's important that you cast mistakes as a natural part of learning and take the opportunity to explain what happened and how to fix it.
+
+## Summary 
+
+For those who like visuals, a great summary provided by Daniela C. Soto @dcsoto_cl Mar 29 , 2019 [https://twitter.com/dcsoto_cl/status/1111447971550228480](https://twitter.com/dcsoto_cl/status/1111447971550228480)
+![alt text][dcsoto_tweet]
+
+
+
+[dcsoto_tweet]: https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small "Daniela C. Soto Carpentries Model"
