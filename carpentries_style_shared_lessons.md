@@ -83,3 +83,5 @@ to ensure that a researcher’s data is properly managed and published to ensure
 
 ## Open Source software
 - 4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
+
+**[Go back](../)**
