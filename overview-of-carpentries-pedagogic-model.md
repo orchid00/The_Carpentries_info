@@ -2,7 +2,7 @@
  
 Adapted from https://github.com/DanielleQuinn/sc-helper-info all credits go to Danielle Quinn for writing it first. :)
 
-TLDR, check out the diagrame provided in the [Summary](#summary)
+TLDR, check out the diagrame provided in the [Summary](#summary).
 
 ## The Carpentries Pedagogical Model
 The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on practice, we develop learners' confidence and lay the foundation for future learning.
@@ -77,12 +77,10 @@ One of the barriers to learning is avoidance of making errors. Errors are associ
 
 For those who like visuals, a great summary provided by Daniela C. Soto @dcsoto_cl Mar 29 , 2019 [https://twitter.com/dcsoto_cl/status/1111447971550228480](https://twitter.com/dcsoto_cl/status/1111447971550228480).
 
-!["Daniela C. Soto Carpentries Model"](https://pbs.twimg.com/media/D2yoCXOUYAEsrL7.jpg)
+![](https://pbs.twimg.com/media/D2yoCXOUYAEsrL7.jpg)
 
-//https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small
+https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small
 
 **[Go back](https://orchid00.github.io/The_Carpentries_info)**
-
-**[Go back](..\)**
 
 
