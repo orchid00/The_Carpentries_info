@@ -77,8 +77,6 @@ One of the barriers to learning is avoidance of making errors. Errors are associ
 
 For those who like visuals, a great summary provided by Daniela C. Soto @dcsoto_cl Mar 29 , 2019 [https://twitter.com/dcsoto_cl/status/1111447971550228480](https://twitter.com/dcsoto_cl/status/1111447971550228480)
 
-![alt text][dcsoto_tweet]
+![alt text](https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small "Daniela C. Soto Carpentries Model")
 
-
-
-[dcsoto_tweet]: https://pbs.twimg.com/media/D2yoCXOUYAEsrL7?format=jpg&name=small "Daniela C. Soto Carpentries Model"
+**[Go back](../)**
