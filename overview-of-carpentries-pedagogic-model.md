@@ -76,6 +76,7 @@ One of the barriers to learning is avoidance of making errors. Errors are associ
 ## Summary 
 
 For those who like visuals, a great summary provided by Daniela C. Soto @dcsoto_cl Mar 29 , 2019 [https://twitter.com/dcsoto_cl/status/1111447971550228480](https://twitter.com/dcsoto_cl/status/1111447971550228480)
+
 ![alt text][dcsoto_tweet]
 
 
