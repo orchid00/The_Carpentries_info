@@ -76,12 +76,13 @@ https://aschuerch.github.io/MolecularEpidemiology_AnalysisWGS/index.html
 - Molecular Basis of Bacterial Infections course, computer practical https://aschuerch.github.io/MBBI_ComputerPracticum/
 
 ## Data Stewardship
-- 23 (Research Data) Things https://data-lessons.github.io/23-rd-things/ 23 (research data) Things is a self-guided
+- 23 (Research Data) Things [https://data-lessons.github.io/23-rd-things/](https://data-lessons.github.io/23-rd-things/) 23 (research data) Things is a self-guided
 training concept for anybody interested in data.
-- Data and the FAIR Principles http://www.repronim.org/module-FAIR-data/ This module provides a number of lessons
+- Data and the FAIR Principles [http://www.repronim.org/module-FAIR-data/](http://www.repronim.org/module-FAIR-data/) This module provides a number of lessons
 to ensure that a researcher’s data is properly managed and published to ensure it enables reproducible research.
 
-## Open Source software
-- 4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
+## Open Source Software
+- 4 Simple recommendations for Open Source Software [https://softdev4research.github.io/4OSS-lesson/](https://softdev4research.github.io/4OSS-lesson/)
 
-**[Go back](../)**
+
+**[Go back](https://orchid00.github.io/The_Carpentries_info)**
