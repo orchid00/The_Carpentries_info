@@ -17,3 +17,8 @@ Please let me know if there are any lessons out there that would be good to add 
 This is work in progress you can see the website for this here: [https://orchid00.github.io/The_Carpentries_info](https://orchid00.github.io/The_Carpentries_info) and contribute to the Repo here: [https://github.com/orchid00/The_Carpentries_info](https://github.com/orchid00/The_Carpentries_info).
 
 Thanks for visiting, my name is Paula Andrea Martinez and you can contact me via Twitter or Github with the handle [@orchid00](@orchid00).
+
+## Licence
+
+CC0 “No Rights Reserved” This is a list of resources from the community to the community. Notice: Please check and respect the specific licence for each resource cited before using it.
+
