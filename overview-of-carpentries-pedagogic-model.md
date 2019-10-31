@@ -4,6 +4,9 @@ Adapted from https://github.com/DanielleQuinn/sc-helper-info all credits go to D
 
 TLDR, check out the diagrame provided in the [Summary](#summary).
 
+"A great part of the value of a carpentry workshop is the personalised interaction with instructors and helpers in the moment"
+they need the most help, at the start of the journey. (Adapted from Clara Llebot, The Carpentries discuss).
+
 ## The Carpentries Pedagogical Model
 The Carpentries aim to teach computational competence to learners. We take an applied approach, avoiding the theoretical and general in favor of the practical and specific. By showing learners how to solve specific problems with specific tools and providing hands-on practice, we develop learners' confidence and lay the foundation for future learning.
 A critical component of this process is that learners are able to practice what they are learning in real time, get feedback on what they are doing, and then apply those lessons learned to the next step in the learning process. Having learners help each other during the workshops also helps to reinforce concepts taught during the workshops.
@@ -57,6 +60,9 @@ Experts are frequently so familiar with their subject that they can no longer im
 The challenge of identifying and working around expert blind spots is one reason why we welcome instructors who still identify as “novices”! Someone who is still in the process of learning can be a more effective instructor because they are speaking from their own recent experience. In these ways and others, the high connectivity of an expert's mental model poses challenges while teaching novices. However, that's not to say that experts can't be good teachers. Experts can be effective as long as they take the time to identify and correct for their own expert blind spots.
 
 ## Live Coding
+
+"The live-coding atmosphere is really crucial for learners to feel comfortable asking questions or asking for help." (Adapted from Hao Ye, The Carpentries discuss).
+
 One of the cornerstones of Software and Data Carpentry teaching is live coding: instructors don't use slides, but work through the lesson material, typing in the code or instructions, with the workshop participants following along. Live coding fits well into our practice-feedback model by providing learners with continuous opportunities for practice (every time they type in a line of code) and continuous feedback (their code either works or fails with an error message).
 Some tips for live coding:
 
