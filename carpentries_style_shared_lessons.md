@@ -6,7 +6,7 @@ If you want your lessons to be part of the currilumn you can propose them to [Th
 
 ## R
 
-- Git using Rstudio used to be https://stijnvanhoey.github.io/git-Rstudio-course/ and now moved to The Carpentries Incubator! [https://carpentries-incubator.github.io/git-Rstudio-course/](https://carpentries-incubator.github.io/git-Rstudio-course/) This is a short lesson to teach git from RStudio using The Carpentries style version 9.5.0. developed by Stjin van Hoey, you can contact me @orchid00 if you have questions or @stijnvanhoey on github and @SVanHoey on twitter.
+- Git using Rstudio used to be https://stijnvanhoey.github.io/git-Rstudio-course/ and now moved to The Carpentries Incubator! [https://carpentries-incubator.github.io/git-Rstudio-course/](https://carpentries-incubator.github.io/git-Rstudio-course/){target="_blank"} This is a short lesson to teach git from RStudio using The Carpentries style version 9.5.0. developed by Stjin van Hoey, you can contact me @orchid00 if you have questions or @stijnvanhoey on github and @SVanHoey on twitter.
 - https://tibhannover.github.io/FAIR-R/ -- Fork of r-novice-inflammation that focusses on function docu, packaging & testing. 
 Was used in https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/
 - https://uomresearchit.github.io/r-tidyverse-intro/ --a condensed version of the Software Carpentry intro to R lesson, 
@@ -15,6 +15,7 @@ with tidyverse and a bit of modeling thrown in.
  
 ## Python
  
+- Numpy [https://afdataschool.github.io/numpy/](https://afdataschool.github.io/numpy/){target="_blank"} by AF data school
 - Python for Atmosphere and Ocean Scientists https://data-lessons.github.io/python-aos-lesson/ Using Data Carpentry template 
 Contact Damien Irving @DrClimate
 - Plotting and Programming in Python using Spyder instead of Jupyter Notebooks - 
@@ -81,13 +82,13 @@ https://aschuerch.github.io/MolecularEpidemiology_AnalysisWGS/index.html
 - Molecular Basis of Bacterial Infections course, computer practical https://aschuerch.github.io/MBBI_ComputerPracticum/
 
 ## Data Stewardship
-- 23 (Research Data) Things [https://data-lessons.github.io/23-rd-things/](https://data-lessons.github.io/23-rd-things/) 23 (research data) Things is a self-guided
+- 23 (Research Data) Things [https://data-lessons.github.io/23-rd-things/](https://data-lessons.github.io/23-rd-things/){target="_blank"} 23 (research data) Things is a self-guided
 training concept for anybody interested in data.
-- Data and the FAIR Principles [http://www.repronim.org/module-FAIR-data/](http://www.repronim.org/module-FAIR-data/) This module provides a number of lessons
+- Data and the FAIR Principles [http://www.repronim.org/module-FAIR-data/](http://www.repronim.org/module-FAIR-data/){target="_blank"} This module provides a number of lessons
 to ensure that a researcher’s data is properly managed and published to ensure it enables reproducible research.
 
 ## Open Source Software
-- 4 Simple recommendations for Open Source Software [https://softdev4research.github.io/4OSS-lesson/](https://softdev4research.github.io/4OSS-lesson/)
+- 4 Simple recommendations for Open Source Software [https://softdev4research.github.io/4OSS-lesson/](https://softdev4research.github.io/4OSS-lesson/){target="_blank"}
 
 
 **[Go back](https://orchid00.github.io/The_Carpentries_info)**
