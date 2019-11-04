@@ -59,6 +59,7 @@ how you can load data into them and how you can query databases to extract just 
  
 - Reproducible computational environments using containers https://dme26.github.io/docker-introduction/
 - https://neurohackweek.github.io/docker-for-scientists/
+- Introduction to Conda for (Data) Scientists https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/
 
 ## HPC - High Performance Computing
  
