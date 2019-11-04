@@ -33,6 +33,7 @@ https://github.com/SCW-Aberystwyth/machine-learning-novice
 - https://machinelearningcarpentry.github.io/machine-learning-novice/
 
 ## Shell
+- Vim and advanced bash https://afdataschool.github.io/vim-bash/ 
 
 ## Git - Version Control
 
@@ -50,6 +51,8 @@ https://caltechlibrary.github.io/git-desktop/
 - SWC https://uw-madison-datascience.github.io/git-novice-custom/ - Teaches branches and pull requests
 - Git beyond the basics https://m4rkd.github.io/git-beyond-the-basics/
 - Introduction to Git and GitHub https://elizabeth-dupre.com/git-course/ (forked from gcapes/git-course) by [@emdupre](https://github.com/emdupre)
+- Git Intro [https://csiro-data-school.github.io/git-intro](https://csiro-data-school.github.io/git-intro){target="_blank"} by CSIRO data school
+- Git continued [https://csiro-data-school.github.io/git-continued/](https://csiro-data-school.github.io/git-continued/){target="_blank"} by CSIRO data school
 
 ## SQL
 - SQL for Business https://data-lessons.github.io/SQL-business/ This lesson will teach you what relational databases are,
