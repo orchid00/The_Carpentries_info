@@ -20,6 +20,6 @@ Thanks for visiting, my name is Paula Andrea Martinez and you can contact me via
 
 ## Licence
 
-Paula Andrea Martinez, editor (2019). The Carpentries info. https://github.com/orchid00/The_Carpentries_info. 
+Paula Andrea Martinez, editor (2019). The Carpentries info. [https://github.com/orchid00/The_Carpentries_info](https://github.com/orchid00/The_Carpentries_info){:target="_blank"}. 
 ([CC BY 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"})
 
