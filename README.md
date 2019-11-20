@@ -20,5 +20,6 @@ Thanks for visiting, my name is Paula Andrea Martinez and you can contact me via
 
 ## Licence
 
-CC0 “No Rights Reserved” This is a list of resources from the community to the community. Notice: Please check and respect the specific licence for each resource cited before using it.
+Paula Andrea Martinez, editor (2019). The Carpentries info. https://github.com/orchid00/The_Carpentries_info. 
+([CC BY 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"})
 
