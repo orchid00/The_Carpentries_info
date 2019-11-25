@@ -41,6 +41,7 @@ Contact Damien Irving @DrClimate
 for use in the Digital Imaging and Vision Applications in Science (DIVAS) Image Processing summer workshop 
 [https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/){:target="_blank"}.
 - Introduction to Python for Data Science [https://kaust-vislab.github.io/python-novice-gapminder/](https://kaust-vislab.github.io/python-novice-gapminder/)
+- Introduction to Conda for (Data) Scientists [https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/](https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/)
 
 ### Machine Learning with Python
  
