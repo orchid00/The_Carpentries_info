@@ -40,8 +40,8 @@ Contact Damien Irving @DrClimate
 - Image processing with Python - This lesson is under development (not yet official) 
 for use in the Digital Imaging and Vision Applications in Science (DIVAS) Image Processing summer workshop 
 [https://datacarpentry.org/image-processing/](https://datacarpentry.org/image-processing/){:target="_blank"}.
-- Introduction to Python for Data Science [https://kaust-vislab.github.io/python-novice-gapminder/](https://kaust-vislab.github.io/python-novice-gapminder/)
-- Introduction to Conda for (Data) Scientists [https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/](https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/)
+- Introduction to Python for Data Science [https://kaust-vislab.github.io/python-novice-gapminder/](https://kaust-vislab.github.io/python-novice-gapminder/){:target="_blank"}.
+- Introduction to Conda for (Data) Scientists [https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/](https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/){:target="_blank"}.
 
 ### Machine Learning with Python
  
