@@ -5,7 +5,7 @@ but are a good source of inspiration whenever you need them. Remember to acknowl
 
 Would be awesome if you could add examples! please contact [me](https://twitter.com/orchid00){:target="_blank"} for questions. 
 
-If you want your lessons to be part of the Carepntries currilumn you can propose them to 
+If you want your lessons to be part of the Carpentries curriculum you can propose them to 
 [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals){:target="_blank"}: 
 The Incubator will serve as a single point of entry for lessons or ideas at any stage in the development process.
 
@@ -107,12 +107,13 @@ partially based on the Data Carpentry Genomics lesson.  - prerequisite Shell.
 training concept for anybody interested in data.
 - Data and the FAIR Principles [http://www.repronim.org/module-FAIR-data/](http://www.repronim.org/module-FAIR-data/){:target="_blank"} This module provides a number of lessons
 to ensure that a researcherâ€™s data is properly managed and published to ensure it enables reproducible research.
+### Reproducibility
+- Reproducible Research Things. This lesson is still being designed and assembled (Pre-Alpha version) [https://orchid00.github.io/ReproducibleResearchThings/](https://orchid00.github.io/ReproducibleResearchThings/){:target="_blank"}
 
 ## Open Source Software
 - 4 Simple recommendations for Open Source Software [https://softdev4research.github.io/4OSS-lesson/](https://softdev4research.github.io/4OSS-lesson/){:target="_blank"}
 
-## Reproducibility
-- Reproducible Research Things. This lesson is still being designed and assembled (Pre-Alpha version) [https://orchid00.github.io/ReproducibleResearchThings/](https://orchid00.github.io/ReproducibleResearchThings/){:target="_blank"}
+
 
 
 **[Go back](https://orchid00.github.io/The_Carpentries_info)**
