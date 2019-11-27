@@ -111,5 +111,8 @@ to ensure that a researcherâ€™s data is properly managed and published to e
 ## Open Source Software
 - 4 Simple recommendations for Open Source Software [https://softdev4research.github.io/4OSS-lesson/](https://softdev4research.github.io/4OSS-lesson/){:target="_blank"}
 
+## Reproducibility
+- Reproducible Research Things. This lesson is still being designed and assembled (Pre-Alpha version) [https://orchid00.github.io/ReproducibleResearchThings/](https://orchid00.github.io/ReproducibleResearchThings/){:target="_blank"}
+
 
 **[Go back](https://orchid00.github.io/The_Carpentries_info)**
