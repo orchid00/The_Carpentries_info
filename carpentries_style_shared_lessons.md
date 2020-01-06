@@ -47,7 +47,7 @@ for use in the Digital Imaging and Vision Applications in Science (DIVAS) Image 
 ### Machine Learning with Python
  
 - A carpentry style course on machine learning with Python and Scikit Learn
- [https://github.com/SCW-Aberystwyth/machine-learning-novice](https://github.com/SCW-Aberystwyth/machine-learning-novice){:target="_blank"}
+ [https://scw-aberystwyth.github.io/machine-learning-novice/](https://scw-aberystwyth.github.io/machine-learning-novice/){:target="_blank"}
 - C3DIS 2019 - Introduction to Machine Learning with Python  [https://injeans.github.io/c3dis-intro-to-ml/](https://injeans.github.io/c3dis-intro-to-ml/){:target="_blank"} Using The Carpentries style version 9.5.3.    
 - [https://machinelearningcarpentry.github.io/machine-learning-novice/](https://machinelearningcarpentry.github.io/machine-learning-novice/){:target="_blank"}
 
