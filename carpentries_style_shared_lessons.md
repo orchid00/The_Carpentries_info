@@ -94,6 +94,9 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
   - hpc-intro: intro to using HPC systems
 - A one day workshop introducing parallel programming using MPI. [https://rantahar.github.io/introduction-to-mpi/](https://rantahar.github.io/introduction-to-mpi/){:target="_blank"}
 
+## Common Workflow Language (CWL)
+- Common Workflow Language [User Guide](https://www.commonwl.org/user_guide/){:target="_blank"} Using The Carpentries style version 9.5.3. 
+
 ## GAP -  computational algebra
 - [http://alex-konovalov.github.io/gap-lesson/](http://alex-konovalov.github.io/gap-lesson/){:target="_blank"} by Alex Konovalov
 
