@@ -93,6 +93,7 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
   - hpc-shell: Intro to the shell for people using remote advanced computing systems
   - hpc-intro: intro to using HPC systems
 - A one day workshop introducing parallel programming using MPI. [https://rantahar.github.io/introduction-to-mpi/](https://rantahar.github.io/introduction-to-mpi/){:target="_blank"}
+- [Introduction to GPU](https://sydney-informatics-hub.github.io/training.artemis.gpu/){:target="_blank"} from the University of Sydney Informatics Hub.
 
 ## Common Workflow Language (CWL)
 - Common Workflow Language [User Guide](https://www.commonwl.org/user_guide/){:target="_blank"} Using The Carpentries style version 9.5.3. 
