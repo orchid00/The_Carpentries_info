@@ -99,7 +99,7 @@ Made up of 1/2 day lessons that can be combined together in different ways depen
 - Common Workflow Language [User Guide](https://www.commonwl.org/user_guide/){:target="_blank"} Using The Carpentries style version 9.5.3. 
 
 ## GAP -  computational algebra
-- [http://alex-konovalov.github.io/gap-lesson/](http://alex-konovalov.github.io/gap-lesson/){:target="_blank"} by Alex Konovalov
+- [https://carpentries-incubator.github.io/gap-lesson/](https://carpentries-incubator.github.io/gap-lesson/){:target="_blank"} by Alexander Konovalov
 
 ## Genomics
 - Molecular Epidemiology of Infectious Diseases - computer practical - prerequisite Shell
