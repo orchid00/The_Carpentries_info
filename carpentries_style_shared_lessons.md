@@ -19,6 +19,7 @@ The Incubator will serve as a single point of entry for lessons or ideas at any 
 Was used in [https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/){:target="_blank"}
 - [https://uomresearchit.github.io/r-tidyverse-intro/](https://uomresearchit.github.io/r-tidyverse-intro/){:target="_blank"} --a condensed version of the Software Carpentry intro to R lesson, 
 with tidyverse and a bit of modeling thrown in. Put together by Research IT, University of Manchester, UK 
+- Data Harvesting for Agriculture[https://data-carpentry-for-agriculture.github.io/trial-lesson/](https://data-carpentry-for-agriculture.github.io/trial-lesson/), Contact Lindsay Clark or Neal Davis for more information at data-harvesting [at] illinois [dot] edu.
 
 ### R Genetics and Genomics
 - Quantitative Trait Mapping [https://smcclatchy.github.io/mapping/](https://smcclatchy.github.io/mapping/){:target="_blank"}.
