@@ -7,7 +7,7 @@ Would be awesome if you could add examples! please contact [me](https://twitter.
 
 If you want your lessons to be part of the Carpentries curriculum you can propose them to 
 [The Carpentries Incubator](https://github.com/carpentries-incubator/proposals){:target="_blank"}: 
-The Incubator will serve as a single point of entry for lessons or ideas at any stage in the development process.
+The Incubator will serve as a single point of entry for lessons or ideas at any stage in the development process. Some of the lessons here are transitioning to the incubator. 
 
 ## R
 
@@ -81,7 +81,7 @@ how you can load data into them and how you can query databases to extract just 
 
 ## Docker / Singularity - Containers
  
-- Reproducible computational environments using containers [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/){:target="_blank"}
+- Reproducible computational environments using containers [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/){:target="_blank"}. This lesson is now within the Carpentries incubator [https://github.com/carpentries-incubator/docker-introduction](https://github.com/carpentries-incubator/docker-introduction){:target="_blank"} and it is likely that ongoing development should proceed there.
 - [https://neurohackweek.github.io/docker-for-scientists/](https://neurohackweek.github.io/docker-for-scientists/){:target="_blank"}
 - Introduction to Conda for (Data) Scientists [https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/){:target="_blank"}
 - Containers in HPC from the Pawsey Centre, an overview and examples for both Singularity and Docker 
