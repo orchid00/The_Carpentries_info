@@ -83,7 +83,7 @@ how you can load data into them and how you can query databases to extract just 
  
 - Reproducible computational environments using containers [https://dme26.github.io/docker-introduction/](https://dme26.github.io/docker-introduction/){:target="_blank"}
 - [https://neurohackweek.github.io/docker-for-scientists/](https://neurohackweek.github.io/docker-for-scientists/){:target="_blank"}
-- Introduction to Conda for (Data) Scientists [https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/](https://kaust-vislab.github.io/introduction-to-conda-for-data-scientists/){:target="_blank"}
+- Introduction to Conda for (Data) Scientists [https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/){:target="_blank"}
 - Containers in HPC from the Pawsey Centre, an overview and examples for both Singularity and Docker 
 [https://pawseysc.github.io/sc19-containers/](https://pawseysc.github.io/sc19-containers/){:target="_blank"}
 
